@@ -1,0 +1,17 @@
+.my-color{
+    background: linear-gradient(to right, #0e9656 0%, #095a31 100%);
+    color: white;
+}
+
+.padding-t{
+    padding-top: 90px;
+}
+
+.top-color{
+    background-color: #e1f8ed;
+}
+
+.footer a{
+    color: white;
+    padding: 15px;
+}

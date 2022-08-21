@@ -1,0 +1,89 @@
+{
+    "data": {
+      "detail": [
+        {
+            "id": 0,
+            "title": "Sofa",
+            "categoryId": "sofa",
+            "coverImage": "https://ii1.pepperfry.com/media/catalog/product/m/e/800x400/mersin-3-seater-sofa-in-teal-colour---amberville-in-pepperfry-mersin-3-seater-sofa-in-teal-colour----e6zofn.jpg",
+            "imageUrls": [
+                "https://ii1.pepperfry.com/media/catalog/product/m/e/440x484/mersin-2-seater-sofa-in-teal-colour---amberville-in-pepperfry-mersin-2-seater-sofa-in-teal-colour----zoxvga.jpg",
+                "https://kreatecube.com/usefull/vendor/27966/gallery/10823.jpg",
+                "http://www.muuduufurniture.com/wp-content/uploads/2015/03/CM6269TL-SF.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKhx7CQWKO60NW8AfXYdmM4lSL1uI3H0JRGIGIM735DrvcIVWJCeRqFfwiV_evXnxLppE&usqp=CAU"
+            ]
+        },
+        {
+            "id": 133,
+            "title": "Huggies & Pampers",
+            "categoryId": "huggies&pampers",
+            "coverImage": "https://www.bigbasket.com/media/uploads/p/m/40124855_1-huggies-ultra-soft-premium-pants-new-born-diapers.jpg",
+            "imageUrls": [
+                "https://www.bigbasket.com/media/uploads/p/m/40124855_1-huggies-ultra-soft-premium-pants-new-born-diapers.jpg",
+                "https://m.media-amazon.com/images/I/613NmDlutXL._SL1000_.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZyWoph17xmCp71G92KOOQbzgncNULyBtApZcVXrScFE5-_c6nHGdvMVAWvRzgmzi_1Yc&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYxDINGnIYCtAhwHgUBc8S7BlYRht0gFmEEu0-4CckPY1abshk51tmS0W06rui3VfnGk&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jQgK3Kta5faOsBU5AQ4Ia6uB6GZQZeg0CPr4_lFIXdPkZOFjAy_zH4pUsEKJD7wSW1g&usqp=CAU"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Cloth Markets",
+            "categoryId": "all",
+            "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfe9x2PoDQAr4r6LYTgtgdRp8EPjNuM3CjqjwuaTIHEyXDqGcA&usqp=CAU",
+            "imageUrls": [
+                "https://st.depositphotos.com/2209782/2833/i/600/depositphotos_28336025-stock-photo-clothes-on-a-rack.jpg",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5YfF-8UUrLG-75xKZ0xPJDLTqI1qEGvT5R0Gdsk9cxB2zeidfTs66hrbpekOFIIGX-qw&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZR40SZEcfTeu_38gP8yZe_gMPAVyIgPgP3qZA1S31GcnaIw5SumGyex1KJUK3eEcyBM&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQeHQBl4vYqh1CG6mfQCOZa1lVCxBxMYPcoAPeQok3K3IprHKCsRFFQ37TLzJ1vPVm7g&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyZR40SZEcfTeu_38gP8yZe_gMPAVyIgPgP3qZA1S31GcnaIw5SumGyex1KJUK3eEcyBM&usqp=CAU"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Lush Fresh",
+            "categoryId": "all",
+            "coverImage": "https://res.cloudinary.com/lush/image/upload/v1501839199/lush_website_uk/shops/hero/2017/08/swansea_shopfront.jpg"
+        },
+        {
+            "id": 2,
+            "title": "ALL",
+            "categoryId": "all",
+            "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfe9x2PoDQAr4r6LYTgtgdRp8EPjNuM3CjqjwuaTIHEyXDqGcA&usqp=CAU"
+        },
+        {
+            "id": 4,
+            "title": "MEN",
+            "categoryId": "men",
+            "coverImage": "https://res.cloudinary.com/atf19/image/upload/c_scale,w_489/v1500284127/pexels-photo-497848_yenhuf.jpg"
+        },
+        {
+            "id": 5,
+            "title": "WOMEN",
+            "categoryId": "women",
+            "coverImage": "https://res.cloudinary.com/atf19/image/upload/c_scale,w_460/v1500284237/pexels-photo-324030_wakzz4.jpg"
+        },
+        {
+            "id": 6,
+            "title": "KIDS",
+            "categoryId": "kids",
+            "coverImage": "https://res.cloudinary.com/atf19/image/upload/c_scale,w_445/v1500284286/child-childrens-baby-children-s_shcevh.jpg"
+        },
+        {
+            "id": 7,
+            "title": "ACCESORIES",
+            "categoryId": "men",
+            "coverImage": "https://res.cloudinary.com/atf19/image/upload/c_scale,w_467/v1500284346/pexels-photo-293229_qxnjtd.jpg"
+        }
+    ]
+    },
+    "expiry": "2020-09-28T06:44:37.045439Z",
+    "notification": null,
+    "properties": {
+      "default-cache-life-time-seconds": 900,
+      "refresh-interval": "30Minutes",
+      "LastUpdatedUTC": "2020-09-11T21:25:04",
+      "__totalRows": 1
+    }
+  }
+  
